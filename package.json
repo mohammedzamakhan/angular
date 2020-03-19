@@ -39,7 +39,7 @@
     "@bazel/jasmine": "0.27.12",
     "@bazel/karma": "0.27.12",
     "@bazel/typescript": "0.27.12",
-    "@microsoft/api-extractor": "^7.0.21",
+    "@microsoft/api-extractor": "^7.7.9",
     "@schematics/angular": "^8.0.0-beta.15",
     "@types/angular": "^1.6.47",
     "@types/base64-js": "1.2.5",
@@ -107,7 +107,7 @@
     "tslint": "5.7.0",
     "typescript": "~3.4.2",
     "xhr2": "0.1.4",
-    "yargs": "9.0.1",
+    "yargs": "13.1.0",
     "zone.js": "^0.9.0"
   },
   "optionalDependencies": {
