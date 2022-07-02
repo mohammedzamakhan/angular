@@ -38,7 +38,7 @@
     "@angular/bazel": "file:./tools/npm/@angular_bazel",
     "@bazel/jasmine": "0.27.12",
     "@bazel/karma": "0.27.12",
-    "@bazel/typescript": "0.27.12",
+    "@bazel/typescript": "5.5.1",
     "@microsoft/api-extractor": "^7.0.21",
     "@schematics/angular": "^8.0.0-beta.15",
     "@types/angular": "^1.6.47",
