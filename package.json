@@ -36,7 +36,7 @@
     "@angular-devkit/core": "^8.0.0-beta.15",
     "@angular-devkit/schematics": "^8.0.0-beta.15",
     "@angular/bazel": "file:./tools/npm/@angular_bazel",
-    "@bazel/jasmine": "0.27.12",
+    "@bazel/jasmine": "2.0.0",
     "@bazel/karma": "0.27.12",
     "@bazel/typescript": "0.27.12",
     "@microsoft/api-extractor": "^7.0.21",
@@ -107,7 +107,7 @@
     "tslint": "5.7.0",
     "typescript": "~3.4.2",
     "xhr2": "0.1.4",
-    "yargs": "9.0.1",
+    "yargs": "13.3.0",
     "zone.js": "^0.9.0"
   },
   "optionalDependencies": {
